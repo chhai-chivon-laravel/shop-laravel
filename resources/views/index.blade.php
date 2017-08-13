@@ -1,5 +1,5 @@
 @extends('master')
 @section('title','Home')
 @section('content')
-	<center><h2>Home</h2></center>
+	<center><h2>Shop</h2></center>
 @endsection
